@@ -1,0 +1,14 @@
+.main {
+    text-align: center;
+    height: 1000px;
+    overflow: auto;
+    margin-top: 10%;
+    font-size: large;
+}
+
+.logo {
+    width: 10% !important; /* ajuste o tamanho de largura para 100px */
+    height: 10% !important; /* ajuste o tamanho de altura para 100px */
+    object-fit: cover !important; /* redimensione a imagem para caber dentro do container */
+    border-radius: 0 !important; /* remova a borda arredondada */
+  }

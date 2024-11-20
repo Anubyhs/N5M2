@@ -1,0 +1,12 @@
+{
+  "/_app": "pages/_app.js",
+  "/LivroDados": "pages/LivroDados.html",
+  "/_document": "pages/_document.js",
+  "/_error": "pages/_error.js",
+  "/api/editora/[codEditora]": "pages/api/editora/[codEditora].js",
+  "/LivroLista": "pages/LivroLista.html",
+  "/api/editora": "pages/api/editora.js",
+  "/api/livros/[codigo]": "pages/api/livros/[codigo].js",
+  "/api/livros": "pages/api/livros.js",
+  "/404": "pages/404.html"
+}
